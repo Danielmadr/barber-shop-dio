@@ -1,6 +1,6 @@
 [submodule "barber-shop-be"]
 	path = barber-shop-be
-	url = ../../barber-shop-be
+	url = https://github.com/Danielmadr/barber-shop-be
 [submodule "barber-shop-fe"]
 	path = barber-shop-fe
-	url = ../../barber-shop-fe
+	url = https://github.com/Danielmadr/barber-shop-fe
